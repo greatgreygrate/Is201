@@ -1,0 +1,42 @@
+.unbold {
+    font-weight: 100
+}
+
+.coloring {
+    background-color:#defcb6
+}
+
+.common {
+    position: fixed;
+
+}
+
+.rightmenu {
+    top: 5px;
+    right: 5px;
+    
+
+}
+.mainbody {
+    top: 20px;
+    left: 600px;
+   
+}
+.leftmenu {
+    bottom: 5px;
+    left: 5px;
+   
+}
+.list {
+    right: 600px;
+    bottom: 300px;
+ 
+}
+.head {
+    right: 500px;
+    bottom: 500px;
+}
+.footer {
+    margin-bottom: auto;
+}
+
